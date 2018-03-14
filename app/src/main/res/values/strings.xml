@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Business Card</string>
+    <string name="centruDeFrumusere">Centru de Frumusete</string>
+    <string name="hetty">HETTY</string>
+    <string name="coafor_cosmetica_machiaj">coafor cosmetica machiaj</string>
+    <string name="address">Str. Zorilor nr.1 Cluj-Napoca</string>
+    <string name="telephone">Tel: 0264/555.555</string>
+    <string name="web_address">www.fb.com/Hetty</string>
+
 </resources>
